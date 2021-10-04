@@ -1,6 +1,6 @@
 # Afghanistan's provinces and districts list
 
-this is clean list of Afghanistan's provinces and districts collected and arranged in JSON and PHP array format.
+this is clean list of Afghanistan's provinces and districts collected and arranged in JSON format.
 
 ## Description
 
