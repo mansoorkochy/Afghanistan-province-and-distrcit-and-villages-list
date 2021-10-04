@@ -1,0 +1,755 @@
+// Provinces
+
+
+{
+    "Afghanistan": {
+      "Kabul": {
+        "0": "Kabul",
+        "cord": [
+          69.2075,
+          34.5553
+        ]
+      },
+      "Maidan-Wardak": {
+        "0": "Maidan Shahar",
+        "cord": [
+          68.2385,
+          34.3513
+        ]
+      },
+      "Ningarhar": {
+        "0": "Jalalabad",
+        "cord": [
+          70.6217,
+          34.1718
+        ]
+      },
+      "Herat": {
+        "0": "Herat",
+        "cord": [
+          62.204,
+          34.3529
+        ]
+      },
+      "Balkh": {
+        "0": "Mazar-e-Sharif",
+        "cord": [
+          66.8975,
+          36.7551
+        ]
+      },
+      "Kandahar": {
+        "0": "Mazar-e-Kandahar",
+        "cord": [
+          66.8975,
+          36.7551
+        ]
+      },
+      "Khost": {
+        "0": "Khost",
+        "cord": [
+          69.9372,
+          33.3338
+        ]
+      },
+      "Farah": {
+        "0": "Farah",
+        "cord": [
+          62.1454,
+          32.4465
+        ]
+      },
+      "Nimroz": {
+        "0": "Zaranj",
+        "cord": [
+          62.4504,
+          31.0261
+        ]
+      },
+      "Badakhshan": {
+        "0": "Fayzabad",
+        "cord": [
+          70.812,
+          36.7348
+        ]
+      },
+      "Paktia": {
+        "0": "Paktia",
+        "cord": [
+          69.3831,
+          33.7062
+        ]
+      },
+      "Paktika": {
+        "0": "Sharan",
+        "cord": [
+          68.5247,
+          32.2645
+        ]
+      },
+      "Logar": {
+        "0": "Puli Alam",
+        "cord": [
+          69.1924,
+          69.1924
+        ]
+      },
+      "Laghman": {
+        "0": "Mehtarlam Baba",
+        "cord": [
+          70.1456,
+          34.6898
+        ]
+      },
+      "Noristan": {
+        "0": "Parun",
+        "cord": [
+          70.9071,
+          35.325
+        ]
+      },
+      "Kunar": {
+        "0": "Asadabad",
+        "cord": [
+          71.3669,
+          35.0883
+        ]
+      },
+      "Kapisa": {
+        "0": "Mahmood Raqi",
+        "cord": [
+          69.6215,
+          34.9811
+        ]
+      },
+      "Baghlan": {
+        "0": "Nahrin",
+        "cord": [
+          68.7453,
+          36.1789
+        ]
+      },
+      "Parwan": {
+        "0": "Chaharikar",
+        "cord": [
+          68.8109,
+          34.9631
+        ]
+      },
+      "Bamyan": {
+        "0": "Bamyan",
+        "cord": [
+          67.8212,
+          34.81
+        ]
+      },
+      "Kundoz": {
+        "0": "Kundoz",
+        "cord": [
+          68.8681,
+          36.7286
+        ]
+      },
+      "Badghis": {
+        "0": "Badghis",
+        "cord": [
+          63.7695,
+          35.1671
+        ]
+      },
+      "Sar-e-Pull": {
+        "0": "Sar-e-Pull",
+        "cord": [
+          65.9334,
+          36.2166
+        ]
+      },
+      "Faryab": {
+        "0": "Maymana",
+        "cord": [
+          64.906,
+          36.0796
+        ]
+      },
+      "Daikundi": {
+        "0": "Nelee",
+        "cord": [
+          66.0464,
+          33.6695
+        ]
+      },
+      "Uruzgan": {
+        "0": "Trinkot",
+        "cord": [
+          66.1415,
+          32.9271
+        ]
+      },
+      "Helmand": {
+        "0": "Lashkargah",
+        "cord": [
+          63.9586,
+          31.3636
+        ]
+      },
+      "Ghazni": {
+        "0": "Ghazni",
+        "cord": [
+          68.4174,
+          33.5451
+        ]
+      },
+      "Takhar": {
+        "0": "Taluqan",
+        "cord": [
+          69.4785,
+          36.6698
+        ]
+      },
+      "Samangan": {
+        "0": "Samangan",
+        "cord": [
+          67.9643,
+          36.3156
+        ]
+      },
+      "Panjshir": {
+        "0": "Panjshir",
+        "cord": [
+          69.955,
+          35.5026
+        ]
+      },
+      "Ghor": {
+        "0": "Chaghcharan",
+        "cord": [
+          64.906,
+          34.0996
+        ]
+      },
+      "Jowzjan": {
+        "0": "Shibirghan",
+        "cord": [
+          65.6659,
+          36.897
+        ]
+      },
+      "Zabul": {
+        "0": "Qalat",
+        "cord": [
+          67.1894,
+          32.1919
+        ]
+      }
+    }
+  }
+
+// Distrcits
+
+
+{
+    "Kabul": [
+      "Bagrami",
+      "Chahar Asyab",
+      "Farza",
+      "Guldara",
+      "Istalif",
+      "Kabul",
+      "Kalakan",
+      "Khaki Jabbar",
+      "Mir Bacha Kot",
+      "Mussahi",
+      "Paghman",
+      "Qarabagh",
+      "Shakardara",
+      "Surobi",
+      "1 zone",
+      "2 zone",
+      "3 zone",
+      "4 zone",
+      "5 zone",
+      "6 zone",
+      "7 zone",
+      "8 zone",
+      "9 zone",
+      "10 zone",
+      "11 zone",
+      "12 zone",
+      "13 zone",
+      "14 zone",
+      "15 zone",
+      "16 zone",
+      "17 zone",
+      "18 zone",
+      "19 zone",
+      "20 zone",
+      "21 zone",
+      "22 zone"
+    ],
+    "Maidan-Wardak": [
+      "Chak",
+      "Day Mirdad",
+      "Jaghatu",
+      "Hisa-e-Awal Behsud",
+      "Jalrez",
+      "Markaz Behsud",
+      "Maidan Shahar",
+      "Narkh",
+      "Sayedabad"
+    ],
+    "Ningarhar": [
+      "Achin",
+      "Bati Kot",
+      "Behsud",
+      "Chaparhar",
+      "Dara-e-Noor",
+      "Dih Bala",
+      "Dur Baba",
+      "Goshta",
+      "Hisarak",
+      "Jalalabad",
+      "Kama",
+      "Khogiani",
+      "Kot",
+      "Kuz Kunar",
+      "Lal Pura",
+      "Muhmand Dara",
+      "Nazyan",
+      "Pachir Wa Agam",
+      "Rodat",
+      "Sherzad",
+      "Shinwar",
+      "Surkh Rod",
+      "Haska Mina"
+    ],
+    "Herat": [
+      "Adraskan",
+      "Chishti Sharif",
+      "Farsi",
+      "Ghoryan",
+      "Gulran",
+      "Guzara",
+      "Herat",
+      "Injil",
+      "Karukh",
+      "Kohsan",
+      "Kushk",
+      "Kushk-e-Kuhna",
+      "Oba",
+      "Pashtun Zarghun",
+      "Shindand",
+      "Zinda Jan",
+      "Turghandi",
+      "Islam Qala"
+    ],
+    "Balkh": [
+      "Balkh",
+      "Chahar Bolak",
+      "Chahar Kint",
+      "Chimtal",
+      "Dawlatabad",
+      "Dihdadi",
+      "Kaldar",
+      "Khulm",
+      "Kishindih",
+      "Marmul",
+      "Mazar-e-Sharif",
+      "Nahri Shahi",
+      "Sholgara",
+      "Shortepa",
+      "Zari"
+    ],
+    "Kandahar": [
+      "Arghandab",
+      "Dand",
+      "Arghistan",
+      "Daman",
+      "Ghorsak",
+      "Kandahar",
+      "Khakrez",
+      "Maruf",
+      "Maywand",
+      "Miyan Nasheen",
+      "Naish",
+      "Panjwaye",
+      "Registan",
+      "Shah Wali Kot",
+      "Shorabak",
+      "Spin Boldak",
+      "Zhari"
+    ],
+    "Khost": [
+      "Bak",
+      "Gurbuz",
+      "Jaji Maydan",
+      "Khost",
+      "Mandozai",
+      "Musa Khel",
+      "Nadir Shah Kot",
+      "Qalandar",
+      "Sabari",
+      "Shamal",
+      "Spera",
+      "Tani",
+      "Tera Zayi"
+    ],
+    "Farah": [
+      "Anar Dara",
+      "Bakwa",
+      "Bala Buluk",
+      "Farah",
+      "Gulistan",
+      "Khaki Safed",
+      "Lash Wa Juwayn",
+      "Pur Chaman",
+      "Pusht-e-Rod",
+      "Qala-e-Kah",
+      "Shib Koh"
+    ],
+    "Nimroz": [
+      "Chahar Burjak",
+      "Chaghansur",
+      "Kang",
+      "Kash Rod",
+      "Zaranj"
+    ],
+    "Badakhshan": [
+      "Arghanj",
+      "Argo",
+      "Baharak",
+      "Darayim",
+      "Fayzabad",
+      "Ishkashim",
+      "Jurm",
+      "Khash",
+      "Khwakhan",
+      "Kishim",
+      "Kohistan",
+      "Kuf Ab",
+      "Kuran Wa Munjan",
+      "Miamay",
+      "Nusay",
+      "Ragh",
+      "Shahri Buzurg",
+      "Shekay",
+      "Shighnan",
+      "Shuhada",
+      "Tagab",
+      "Tishkan",
+      "Wakhan",
+      "Wurduj",
+      "Yaftali Sufla",
+      "Yamgan",
+      "Yawan",
+      "Zebak"
+    ],
+    "Paktia": [
+      "Ahmad Aba",
+      "Ahmad Khel",
+      "Dand Aw Patan",
+      "Gardez",
+      "janikhel",
+      "Said Karam",
+      "Shwak",
+      "Tsamkani",
+      "Zardran",
+      "Zazi",
+      "Zuramt"
+    ],
+    "Paktika": [
+      "Barmal",
+      "Dila",
+      "Gayan",
+      "Gomal",
+      "Janikhel",
+      "Khairkot",
+      "Mata Khan",
+      "Nika",
+      "Omna",
+      "Sar Hawza",
+      "Surobi",
+      "Sharan",
+      "Terwa",
+      "Urgun",
+      "Waza Khwa",
+      "Wor Mamay",
+      "yahya Khel",
+      "Yusuf Khel",
+      "Ziruk"
+    ],
+    "Logar": [
+      "Azra",
+      "Baraki Barak",
+      "Charkh",
+      "Kharwar",
+      "Khoshi",
+      "Mohammad Agha",
+      "Puli Alam"
+    ],
+    "Laghman": [
+      "Alingar",
+      "Alishang",
+      "Baad Pakh",
+      "Dawlat Shah",
+      "Mehtarlam Baba",
+      "Qarghayi"
+    ],
+    "Noristan": [
+      "Bargi Matal",
+      "Du Ab",
+      "Kamdesh",
+      "Mandol",
+      "Nurgaram",
+      "Parun",
+      "Wama",
+      "Waygal"
+    ],
+    "Kunar": [
+      "Asadabad",
+      "Bar Kunar",
+      "Chapa Dara",
+      "Chawkay",
+      "Dangam",
+      "Dara-e-Pech",
+      "Ghaziabad",
+      "Khas Kunar",
+      "Marawara",
+      "Narang",
+      "Nari",
+      "Nurgal",
+      "Shaygal Wa Shiltan",
+      "Sirkanay",
+      "Wata Pur",
+      "Shultan"
+    ],
+    "Kapisa": [
+      "Alasay",
+      "Hesa Awal Kohistan",
+      "Hesa Dowm Kohistan",
+      "Koh Band",
+      "Mahmood Raqi",
+      "Nijrab",
+      "Tagab"
+    ],
+    "Baghlan": [
+      "Andarab",
+      "Baghlan",
+      "Baghlani Jadid",
+      "Burka",
+      "Dahana-e-Ghuri",
+      "Dih Salah",
+      "Dushi",
+      "Farang Wa Gharu",
+      "Guzargahi Nur",
+      "Khinjan",
+      "Khost wa Ferang",
+      "Khawaja Hijran",
+      "Nahrin",
+      "Puli Hisar",
+      "Puli Khumri",
+      "Tala Wa Barfak"
+    ],
+    "Parwan": [
+      "Bagram",
+      "Chaharikar",
+      "Ghorbandi",
+      "Jabal Seraj",
+      "Kohi Safi",
+      "Salang",
+      "Sayed Khel",
+      "Shekh Ali",
+      "Shinwari",
+      "Surkhi Parsa"
+    ],
+    "Bamyan": [
+      "Bamyan",
+      "Kahmard",
+      "Panjab",
+      "Sayghan",
+      "Shibar",
+      "Waras",
+      "Yakawlang"
+    ],
+    "Kundoz": [
+      "Ali Abad",
+      "Archi",
+      "Chardara",
+      "Imam Sahib",
+      "Khan Abad",
+      "Kundoz",
+      "Qalay-e-Zal"
+    ],
+    "Badghis": [
+      "Ab Kamari",
+      "Ghormach",
+      "Jawand",
+      "Muqur",
+      "Bala Murghab",
+      "Qadis",
+      "Qala-e-Naw"
+    ],
+    "Sar-e-Pull": [
+      "Balkhab",
+      "Gosfandi",
+      "Kohistanat",
+      "Sangcharak",
+      "Sar-e-Pull",
+      "Sayyad",
+      "Sozma Qala"
+    ],
+    "Faryab": [
+      "Almar",
+      "Andkhoy",
+      "Bilchiragh",
+      "Dawlat Abad",
+      "Gurziwan",
+      "Khan Chahar Bagh",
+      "Khwaja Sabz Posh",
+      "Kohistan",
+      "Maymana",
+      "Pashton Kot",
+      "Qaramqol",
+      "Qaysar",
+      "Qurghan",
+      "Shirin Tagab"
+    ],
+    "Daikundi": [
+      "Ishtarlay",
+      "Kajran",
+      "Khadir",
+      "Kiti",
+      "Miramor",
+      "Nelee",
+      "Sangtakht",
+      "Shahristan"
+    ],
+    "Uruzgan": [
+      "Chora",
+      "Deh Rawood",
+      "Gizab",
+      "Khas Urugan",
+      "Shahidi Hassas",
+      "Trinkot"
+    ],
+    "Helmand": [
+      "Baghran",
+      "Dishu",
+      "Garamsir",
+      "Grishk",
+      "Kajaki",
+      "Khanashin",
+      "Lashkargah",
+      "Marjah",
+      "Nad Ali",
+      "Musa Qala",
+      "Nawa-e-Barakzayi",
+      "Nawzad",
+      "Sangin",
+      "Washir"
+    ],
+    "Ghazni": [
+      "Ab Band",
+      "Ajristan",
+      "Andar",
+      "Dih Yak",
+      "Gelan",
+      "Ghazni",
+      "Giro",
+      "Jaghatu",
+      "Jaghuri",
+      "Khogiani",
+      "Khawaja Omari",
+      "Malistan",
+      "Muqur",
+      "Nawa",
+      "Nawur",
+      "Qarabagh",
+      "Rashidan",
+      "Waghaz",
+      "Zana Khan"
+    ],
+    "Takhar": [
+      "Baharak",
+      "Bangi",
+      "Chah Ab",
+      "Chal",
+      "Darqad",
+      "Dasht-e-Qala",
+      "Farkhar",
+      "Hazar Sumuch",
+      "Ishkamish",
+      "Kalafgan",
+      "Khawaja Bahauddin",
+      "Khawaja Ghar",
+      "Namak Ab",
+      "Rustaq",
+      "Taluqan",
+      "Warsaj",
+      "Yangi Qala"
+    ],
+    "Samangan": [
+      "Aybak",
+      "Dara-e-Suf Bala",
+      "Dara-e-Suf Payan",
+      "Feroz Nakhchir",
+      "Hazrati Sultan",
+      "Khuram Wa Sarbagh",
+      "Ruyi Du Ab"
+    ],
+    "Panjshir": [
+      "Anaba",
+      "Bazarak",
+      "Darah",
+      "Khenj",
+      "Paryan",
+      "Rokha",
+      "Shotal"
+    ],
+    "Ghor": [
+      "Chaghcharan",
+      "Bala Marghab",
+      "Charsada",
+      "Dawlat Yar",
+      "Du Layna",
+      "Lal Wa Sarjangal",
+      "Pasaband",
+      "Saghar",
+      "Shahrak",
+      "Taywara",
+      "Tulak"
+    ],
+    "Jowzjan": [
+      "Aqcha",
+      "Darzab",
+      "Fayzabad",
+      "Kham ab",
+      "Khaniqa",
+      "Khwaja Du Koh",
+      "Mardyan",
+      "Mingajik",
+      "Qarqin",
+      "Qush Tepa",
+      "Shibirghan"
+    ],
+    "Zabul": [
+      "Arghandab",
+      "Atghar",
+      "Daychopan",
+      "Kakar",
+      "Mezan",
+      "Naw Bahar",
+      "Qalat",
+      "Shah Joy",
+      "Shamulzayi",
+      "Shinkay",
+      "Tarnak Wa Jaldak"
+    ],
+    "Dubai": [
+      "Al Bastakiya",
+      "Al Karama",
+      "Bur Dubai",
+      "Business Bay",
+      "Downtown Dubai",
+      "Dubai Marina"
+    ]
+  }
