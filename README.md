@@ -20,9 +20,7 @@ This list can be get better if you check the list for inconsistency or new impro
 ## Authors
 
 Mansoor Anis Kochy
-
-ex. Dominique Pizzie  
-ex. [@twitter](https://twitter.com/mansoorkochy)
+[@twitter](https://twitter.com/mansoorkochy)
 
 
 ## License
